@@ -361,7 +361,7 @@
 	 * accounts are not sent to users.
 	 * @global int $g_enable_email_notification
 	 */
-	$g_enable_email_notification	= ON;
+	$g_enable_email_notification	= OFF;
 
 
 	/**
