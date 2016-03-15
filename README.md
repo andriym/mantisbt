@@ -1,0 +1,2 @@
+# mantisbt
+Manti Bug Tracker
